@@ -1,0 +1,87 @@
+name: update
+
+# Pulls the daily lists from the "data" release of maximilianfeix/shortfree
+# (its scan runs at 03:17 UTC) and commits them here if anything changed.
+on:
+  schedule:
+    - cron: "30 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      GH_TOKEN: ${{ github.token }}
+      SOURCE: maximilianfeix/shortfree
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Download lists from the shortfree data release
+        id: dl
+        run: |
+          set -euo pipefail
+          if ! out=$(gh release view data -R "$SOURCE" 2>&1); then
+            if grep -qi "not found" <<<"$out"; then
+              echo "No data release in $SOURCE yet, nothing to update."
+              echo "skip=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            echo "$out"; exit 1
+          fi
+          mkdir -p dl
+          gh release download data -R "$SOURCE" -D dl --clobber \
+            -p 'short-*.csv' -p 'short-*.txt' -p 'four-*.txt.gz'
+          gh release download data -R "$SOURCE" -D dl --clobber -p 'changes.json' \
+            || echo "no changes.json in the release, README skips 'Recently freed'"
+          ls -la dl
+
+      - name: Build lists
+        if: steps.dl.outputs.skip != 'true'
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+          csvs=(dl/short-*.csv) txts=(dl/short-*.txt) fours=(dl/four-*.txt.gz)
+          # Replace a directory only when the release has files for it, so a
+          # partial release never wipes a list.
+          if ((${#csvs[@]})); then
+            rm -rf csv && mkdir csv
+            for f in "${csvs[@]}"; do t=${f#dl/short-}; cp "$f" "csv/$t"; done
+          fi
+          if ((${#txts[@]})); then
+            rm -rf txt && mkdir txt
+            for f in "${txts[@]}"; do t=${f#dl/short-}; cp "$f" "txt/$t"; done
+          fi
+          if ((${#fours[@]})); then
+            rm -rf four-letter && mkdir four-letter
+            for f in "${fours[@]}"; do
+              t=${f#dl/four-}; t=${t%.txt.gz}
+              # letters only (no digits or hyphens) keeps the repo small
+              gunzip -c "$f" | grep -E '^[a-z]{4}\.' > "four-letter/$t.txt" || true
+            done
+          fi
+          changes=()
+          [ -f dl/changes.json ] && changes=(--changes dl/changes.json)
+          python scripts/readme.py "${changes[@]}"
+          du -sh csv txt four-letter 2>/dev/null || true
+
+      - name: Commit if changed
+        if: steps.dl.outputs.skip != 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A csv txt four-letter README.md
+          if git diff --cached --quiet; then echo "no changes"; exit 0; fi
+          git commit -m "data: $(date -u +%Y-%m-%d)"
+          git push
