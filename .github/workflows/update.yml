@@ -1,7 +1,10 @@
 name: update
 
-# Pulls the daily lists from the "data" release of maximilianfeix/shortfree
-# (its scan runs at 03:17 UTC) and commits them here if anything changed.
+# Installs the newest snapshot of maximilianfeix/shortfree's "data" release
+# (its scan runs at 03:17 UTC) and commits it here if anything changed.
+# manifest.json is replaced last by the publisher and names one immutable
+# snapshot archive, so this never mixes files of two runs, even while the
+# next run is being published.
 on:
   schedule:
     - cron: "30 5 * * *"
@@ -28,60 +31,49 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Download lists from the shortfree data release
+      - name: Download the manifest and the snapshot it names
         id: dl
         run: |
           set -euo pipefail
-          if ! out=$(gh release view data -R "$SOURCE" 2>&1); then
-            if grep -qi "not found" <<<"$out"; then
+          if ! assets=$(gh release view data -R "$SOURCE" --json assets -q '.assets[].name' 2>&1); then
+            if grep -qi "not found" <<<"$assets"; then
               echo "No data release in $SOURCE yet, nothing to update."
               echo "skip=true" >> "$GITHUB_OUTPUT"
               exit 0
             fi
-            echo "$out"; exit 1
+            echo "$assets"; exit 1
+          fi
+          if ! grep -qx manifest.json <<<"$assets"; then
+            echo "::warning::$SOURCE has no manifest.json yet (published before snapshots existed); keeping the current lists."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            exit 0
           fi
           mkdir -p dl
-          gh release download data -R "$SOURCE" -D dl --clobber \
-            -p 'short-*.csv' -p 'short-*.txt' -p 'four-*.txt.gz'
-          gh release download data -R "$SOURCE" -D dl --clobber -p 'changes.json' \
-            || echo "no changes.json in the release, README skips 'Recently freed'"
+          gh release download data -R "$SOURCE" -D dl --clobber -p manifest.json
+          archive=$(python -c 'import json,sys; print(json.load(open(sys.argv[1]))["archive"]["name"])' dl/manifest.json)
+          [[ "$archive" =~ ^snapshot-[0-9]{4}-[0-9]{2}-[0-9]{2}(-[0-9a-z]+)?\.tar\.gz$ ]] || { echo "unexpected archive name: $archive"; exit 1; }
+          gh release download data -R "$SOURCE" -D dl --clobber -p "$archive"
+          echo "archive=dl/$archive" >> "$GITHUB_OUTPUT"
           ls -la dl
 
-      - name: Build lists
+      - name: Verify and install the snapshot, rebuild the README
         if: steps.dl.outputs.skip != 'true'
+        env:
+          ARCHIVE: ${{ steps.dl.outputs.archive }}
         run: |
           set -euo pipefail
-          shopt -s nullglob
-          csvs=(dl/short-*.csv) txts=(dl/short-*.txt) fours=(dl/four-*.txt.gz)
-          # Replace a directory only when the release has files for it, so a
-          # partial release never wipes a list.
-          if ((${#csvs[@]})); then
-            rm -rf csv && mkdir csv
-            for f in "${csvs[@]}"; do t=${f#dl/short-}; cp "$f" "csv/$t"; done
-          fi
-          if ((${#txts[@]})); then
-            rm -rf txt && mkdir txt
-            for f in "${txts[@]}"; do t=${f#dl/short-}; cp "$f" "txt/$t"; done
-          fi
-          if ((${#fours[@]})); then
-            rm -rf four-letter && mkdir four-letter
-            for f in "${fours[@]}"; do
-              t=${f#dl/four-}; t=${t%.txt.gz}
-              # letters only (no digits or hyphens) keeps the repo small
-              gunzip -c "$f" | grep -E '^[a-z]{4}\.' > "four-letter/$t.txt" || true
-            done
-          fi
-          changes=()
-          [ -f dl/changes.json ] && changes=(--changes dl/changes.json)
-          python scripts/readme.py "${changes[@]}"
-          du -sh csv txt four-letter 2>/dev/null || true
+          # Checks the archive and every file against the manifest's SHA-256
+          # sums; csv/, txt/ and four-letter/ are only replaced if all match.
+          python scripts/snapshot.py --manifest dl/manifest.json --archive "$ARCHIVE" --changes-out dl/changes.json
+          python scripts/readme.py --changes dl/changes.json
+          du -sh csv txt four-letter
 
       - name: Commit if changed
         if: steps.dl.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A csv txt four-letter README.md
+          git add -A csv txt four-letter snapshot.json README.md
           if git diff --cached --quiet; then echo "no changes"; exit 0; fi
-          git commit -m "data: $(date -u +%Y-%m-%d)"
+          git commit -m "data: $(python -c 'import json; print(json.load(open("snapshot.json"))["name"])')"
           git push
