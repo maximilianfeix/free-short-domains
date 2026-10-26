@@ -29,6 +29,6 @@ CSV columns: `domain,tld,length,kind,status,first_seen,checked_at` (`kind` = let
 
 The lists come from [shortfree](https://github.com/maximilianfeix/shortfree), which queries every candidate name directly at the TLD's authoritative name servers and confirms each 1–3 character name in the registry's RDAP service (`404` = not registered). 4-letter names are DNS-checked only. Free does not mean cheap: registries reserve some names or sell them at premium prices, which RDAP does not show, so check the price at your registrar. A name can be taken minutes after the scan. Also available as a [JSON/CSV API](https://github.com/maximilianfeix/shortfree/blob/main/docs/api.md).
 
-⭐ **Star the repo to get the daily list in your feed.**
+If these lists save you time, a star helps other people find them.
 
 Data: [CC0 1.0](LICENSE), no attribution required.

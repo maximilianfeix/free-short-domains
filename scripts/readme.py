@@ -179,7 +179,7 @@ def render(root, changes_path=None):
         "your registrar. A name can be taken minutes after the scan. Also available as a "
         f"[JSON/CSV API]({SHORTFREE}/blob/main/docs/api.md).\n"
     )
-    w("⭐ **Star the repo to get the daily list in your feed.**\n")
+    w("If these lists save you time, a star helps other people find them.\n")
     w("Data: [CC0 1.0](LICENSE), no attribution required.")
     return "\n".join(out) + "\n"
 
