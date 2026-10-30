@@ -23246,6 +23246,7 @@ biqy.fm
 biqz.fm
 birb.fm
 birc.fm
+bird.fm
 bire.fm
 birf.fm
 birg.fm
@@ -384628,6 +384629,7 @@ walg.fm
 walh.fm
 wali.fm
 walj.fm
+wall.fm
 walm.fm
 waln.fm
 walo.fm

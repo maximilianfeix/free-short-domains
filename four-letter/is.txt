@@ -17382,7 +17382,6 @@ bami.is
 bamj.is
 bamk.is
 baml.is
-bamm.is
 bamn.is
 bamo.is
 bamq.is
@@ -22800,7 +22799,6 @@ bisg.is
 bish.is
 bisi.is
 bisj.is
-bisk.is
 bisl.is
 bism.is
 biso.is
@@ -147854,7 +147852,6 @@ iosg.is
 iosh.is
 iosi.is
 iosj.is
-iosk.is
 iosl.is
 iosm.is
 iosn.is

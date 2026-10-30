@@ -42,6 +42,7 @@ bcem.com
 bcjx.com
 bdah.com
 bdgz.com
+bdls.com
 bdom.com
 bdwj.com
 beem.com
@@ -86,7 +87,6 @@ bvgx.com
 bvio.com
 bvsi.com
 bxnz.com
-bxpi.com
 bxqr.com
 bxsi.com
 bxwo.com
@@ -440,7 +440,6 @@ imhi.com
 imso.com
 imsz.com
 iprq.com
-iqdi.com
 iqkd.com
 iqkg.com
 iqpm.com
