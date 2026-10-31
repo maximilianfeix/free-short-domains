@@ -168612,7 +168612,6 @@ juvk.to
 juvl.to
 juvm.to
 juvn.to
-juvo.to
 juvp.to
 juvq.to
 juvr.to
@@ -412306,7 +412305,6 @@ xylk.to
 xyll.to
 xylm.to
 xyln.to
-xylo.to
 xylp.to
 xylq.to
 xylr.to

@@ -41939,7 +41939,6 @@ clnx.is
 clny.is
 clnz.is
 cloa.is
-clob.is
 cloc.is
 clod.is
 cloe.is
@@ -45671,7 +45670,6 @@ crek.is
 crel.is
 crem.is
 cren.is
-creo.is
 crep.is
 creq.is
 crer.is
@@ -165101,6 +165099,7 @@ jool.is
 joom.is
 joop.is
 jooq.is
+joor.is
 joos.is
 joot.is
 joou.is
