@@ -58077,6 +58077,7 @@ diep.inc
 dieq.inc
 dier.inc
 dies.inc
+diet.inc
 dieu.inc
 diev.inc
 diew.inc
@@ -175780,6 +175781,7 @@ kaoo.inc
 kaop.inc
 kaoq.inc
 kaor.inc
+kaos.inc
 kaot.inc
 kaou.inc
 kaov.inc
@@ -298313,6 +298315,7 @@ radu.inc
 radv.inc
 radw.inc
 radx.inc
+rady.inc
 radz.inc
 raea.inc
 raeb.inc
@@ -310120,7 +310123,6 @@ rrrc.inc
 rrrd.inc
 rrre.inc
 rrrf.inc
-rrrg.inc
 rrrh.inc
 rrri.inc
 rrrj.inc

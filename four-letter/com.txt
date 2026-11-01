@@ -185,12 +185,12 @@ dkhl.com
 dklg.com
 dkpv.com
 dktq.com
-dlmy.com
 dlry.com
 dlxy.com
 dmmg.com
 dnjg.com
 dnmh.com
+dnzf.com
 doqx.com
 dpkk.com
 dqlg.com
@@ -205,7 +205,6 @@ dsvb.com
 dttq.com
 dtxg.com
 duuw.com
-dvko.com
 dvkz.com
 dvma.com
 dxao.com
@@ -517,13 +516,11 @@ jzsv.com
 jzvt.com
 kaqq.com
 kbrf.com
-kbsn.com
 kbtk.com
 kbxy.com
 kbzq.com
 kdxm.com
 keio.com
-kfbn.com
 kfle.com
 kfmg.com
 kgdi.com
@@ -537,6 +534,7 @@ kksz.com
 kktm.com
 kkza.com
 kljq.com
+klpe.com
 kmfj.com
 kmjc.com
 kmkz.com
@@ -547,7 +545,6 @@ koiv.com
 kokj.com
 koox.com
 kosa.com
-kpsy.com
 kqjb.com
 krfn.com
 ksrf.com
@@ -893,6 +890,7 @@ rlud.com
 rmgd.com
 rmku.com
 rmpi.com
+roxc.com
 rpcd.com
 rpjh.com
 rprc.com
@@ -905,6 +903,7 @@ rsxs.com
 rtio.com
 ruhu.com
 rupr.com
+rupz.com
 rwfr.com
 rwfv.com
 rwfy.com
@@ -1231,12 +1230,14 @@ yatl.com
 yaxi.com
 ybec.com
 ybfn.com
+ybsh.com
 ybuk.com
 ycnt.com
 ydfj.com
 ydgf.com
 ydmg.com
 ydpf.com
+yerc.com
 yezd.com
 yezo.com
 yfpi.com
@@ -1245,7 +1246,6 @@ yhai.com
 yicj.com
 yipc.com
 yjhe.com
-ykah.com
 ykfp.com
 ykly.com
 ykvg.com
@@ -1259,6 +1259,8 @@ yokv.com
 yovy.com
 ypdh.com
 ypzl.com
+yqla.com
+yraq.com
 yrcj.com
 yrpj.com
 yrsg.com

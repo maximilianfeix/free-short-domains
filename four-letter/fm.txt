@@ -309627,7 +309627,6 @@ rsvl.fm
 rsvm.fm
 rsvn.fm
 rsvo.fm
-rsvp.fm
 rsvq.fm
 rsvr.fm
 rsvs.fm

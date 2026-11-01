@@ -52145,7 +52145,6 @@ dawj.is
 dawk.is
 dawl.is
 dawm.is
-dawn.is
 dawo.is
 dawp.is
 dawq.is
@@ -296940,6 +296939,7 @@ remq.is
 remr.is
 rems.is
 remt.is
+remu.is
 remv.is
 remw.is
 remx.is
@@ -299669,7 +299669,6 @@ ripo.is
 ripp.is
 ripq.is
 ripr.is
-rips.is
 ript.is
 ripu.is
 ripv.is
@@ -303711,7 +303710,6 @@ rork.is
 rorl.is
 rorm.is
 rorn.is
-roro.is
 rorp.is
 rorq.is
 rorr.is
