@@ -202671,6 +202671,7 @@ lufp.to
 lufq.to
 lufr.to
 luft.to
+lufu.to
 lufv.to
 lufw.to
 lufz.to
@@ -443821,7 +443822,6 @@ ztmw.to
 ztmx.to
 ztmy.to
 ztmz.to
-ztna.to
 ztnb.to
 ztnc.to
 ztnd.to

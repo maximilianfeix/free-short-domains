@@ -84185,7 +84185,6 @@ exai.is
 exaj.is
 exak.is
 exal.is
-exam.is
 exan.is
 exao.is
 exap.is
@@ -190492,7 +190491,6 @@ lask.is
 lasl.is
 lasm.is
 lasn.is
-laso.is
 lasp.is
 lasq.is
 lasr.is
@@ -190584,7 +190582,6 @@ lawj.is
 lawk.is
 lawl.is
 lawm.is
-lawn.is
 lawo.is
 lawp.is
 lawq.is
@@ -195488,7 +195485,6 @@ lifw.is
 lifx.is
 lify.is
 lifz.is
-liga.is
 ligb.is
 ligc.is
 ligd.is
@@ -321571,7 +321567,6 @@ spun.is
 spuo.is
 spup.is
 spuq.is
-spur.is
 spus.is
 sput.is
 spuu.is
