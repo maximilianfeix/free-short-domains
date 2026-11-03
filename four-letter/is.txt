@@ -86600,7 +86600,6 @@ faqz.is
 farb.is
 farc.is
 fard.is
-fare.is
 farf.is
 farg.is
 farh.is
@@ -97572,6 +97571,7 @@ frdz.is
 frea.is
 freb.is
 frec.is
+free.is
 fref.is
 freg.is
 freh.is
@@ -223576,7 +223576,6 @@ myqn.is
 myqo.is
 myqp.is
 myqq.is
-myqr.is
 myqs.is
 myqt.is
 myqu.is
@@ -333551,6 +333550,7 @@ thyi.is
 thyj.is
 thyk.is
 thyl.is
+thym.is
 thyn.is
 thyo.is
 thyp.is
@@ -336701,7 +336701,6 @@ tmrs.is
 tmrt.is
 tmru.is
 tmrv.is
-tmrw.is
 tmrx.is
 tmry.is
 tmrz.is
