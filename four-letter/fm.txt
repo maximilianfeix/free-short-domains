@@ -112514,6 +112514,7 @@ glop.fm
 gloq.fm
 glor.fm
 glos.fm
+glot.fm
 glou.fm
 glov.fm
 glox.fm
@@ -236853,7 +236854,6 @@ nosk.fm
 nosl.fm
 nosm.fm
 nosn.fm
-noso.fm
 nosp.fm
 nosq.fm
 nosr.fm
@@ -236937,7 +236937,6 @@ novw.fm
 novx.fm
 novy.fm
 novz.fm
-nowa.fm
 nowb.fm
 nowc.fm
 nowd.fm
