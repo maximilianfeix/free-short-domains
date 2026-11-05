@@ -122801,6 +122801,7 @@ hacg.inc
 hach.inc
 haci.inc
 hacj.inc
+hack.inc
 hacl.inc
 hacm.inc
 hacn.inc
@@ -122902,6 +122903,7 @@ hage.inc
 hagf.inc
 hagg.inc
 hagh.inc
+hagi.inc
 hagj.inc
 hagk.inc
 hagl.inc
@@ -128581,6 +128583,7 @@ hira.inc
 hirb.inc
 hirc.inc
 hird.inc
+hire.inc
 hirf.inc
 hirg.inc
 hirh.inc
@@ -371550,6 +371553,7 @@ vesh.inc
 vesi.inc
 vesj.inc
 vesk.inc
+vesl.inc
 vesm.inc
 vesn.inc
 veso.inc

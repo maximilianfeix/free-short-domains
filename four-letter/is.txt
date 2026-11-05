@@ -11377,6 +11377,7 @@ ario.is
 arip.is
 ariq.is
 arir.is
+aris.is
 arit.is
 ariu.is
 ariv.is
@@ -11474,7 +11475,6 @@ armo.is
 armp.is
 armq.is
 armr.is
-arms.is
 armt.is
 armu.is
 armv.is
@@ -121266,7 +121266,6 @@ hato.is
 hatp.is
 hatq.is
 hatr.is
-hats.is
 hatt.is
 hatu.is
 hatv.is
@@ -126187,7 +126186,6 @@ hidn.is
 hido.is
 hidp.is
 hidq.is
-hidr.is
 hids.is
 hidt.is
 hidu.is
@@ -126583,7 +126581,6 @@ hito.is
 hitp.is
 hitq.is
 hitr.is
-hitt.is
 hitu.is
 hitv.is
 hitw.is
@@ -134726,7 +134723,6 @@ huzy.is
 huzz.is
 hvaa.is
 hvab.is
-hvad.is
 hvae.is
 hvaf.is
 hvag.is
@@ -248732,6 +248728,7 @@ okjw.is
 okjx.is
 okjy.is
 okjz.is
+okka.is
 okkb.is
 okkc.is
 okkd.is
@@ -251903,7 +251900,6 @@ opei.is
 opej.is
 opek.is
 opem.is
-open.is
 opeo.is
 opep.is
 opeq.is
@@ -377241,7 +377237,6 @@ vvil.is
 vvim.is
 vvin.is
 vvio.is
-vvip.is
 vviq.is
 vvir.is
 vvis.is
