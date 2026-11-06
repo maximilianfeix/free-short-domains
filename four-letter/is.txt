@@ -17363,7 +17363,6 @@ balp.is
 balq.is
 balr.is
 bals.is
-balt.is
 balu.is
 balv.is
 balw.is
@@ -17405,7 +17404,6 @@ bann.is
 banp.is
 banq.is
 banr.is
-bans.is
 bant.is
 banu.is
 banv.is
@@ -26572,6 +26570,7 @@ boke.is
 bokf.is
 bokg.is
 bokj.is
+bokk.is
 bokl.is
 bokm.is
 bokn.is
@@ -145819,6 +145818,7 @@ ilpo.is
 ilpp.is
 ilpq.is
 ilpr.is
+ilps.is
 ilpt.is
 ilpu.is
 ilpv.is
@@ -150292,6 +150292,7 @@ iskp.is
 iskq.is
 iskr.is
 isks.is
+iskt.is
 isku.is
 iskv.is
 iskw.is
@@ -390431,7 +390432,6 @@ wpau.is
 wpav.is
 wpaw.is
 wpax.is
-wpay.is
 wpaz.is
 wpba.is
 wpbb.is

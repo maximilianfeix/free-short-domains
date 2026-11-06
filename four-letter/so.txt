@@ -17758,6 +17758,7 @@ bari.so
 barj.so
 barl.so
 barm.so
+baro.so
 barp.so
 barq.so
 barr.so
