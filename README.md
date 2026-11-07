@@ -12,33 +12,33 @@ curl -sL https://raw.githubusercontent.com/maximilianfeix/free-short-domains/mai
 
 ## Counts
 
-_Scan of 2026-11-05 03:22 UTC (snapshot `snapshot-2026-11-05`). Oldest registry check behind a listed name: 2026-10-27; checks older than 14 days are not listed. Click a number to open the list._
+_Scan of 2026-11-06 03:22 UTC (snapshot `snapshot-2026-11-06`). Oldest registry check behind a listed name: 2026-10-27; checks older than 14 days are not listed. Click a number to open the list._
 
-Coverage is not complete for `.ai` partial, `.io` partial, `.org` partial, `.run` partial, `.so` partial, `.tools` partial (partial: some names not checked yet; stale: the latest scan failed; held: the latest scan looked implausible and was not used). Unchecked names are not counted as taken.
+Coverage is not complete for `.ai` partial, `.io` partial, `.org` partial, `.run` partial, `.tools` partial (partial: some names not checked yet; stale: the latest scan failed; held: the latest scan looked implausible and was not used). Unchecked names are not counted as taken.
 
 | TLD | 1 char | 2 chars | 3 chars | 4 letters¹ | files |
 |---|--:|--:|--:|--:|---|
-| `.com` | [0](txt/com.txt) | [0](txt/com.txt) | [0](txt/com.txt) | [1,322](four-letter/com.txt) | [csv](csv/com.csv) · [txt](txt/com.txt) |
-| `.net` | [0](txt/net.txt) | [13](txt/net.txt) | [4,519](txt/net.txt) | [244,833](four-letter/net.txt) | [csv](csv/net.csv) · [txt](txt/net.txt) |
-| `.de` | [0](txt/de.txt) | [0](txt/de.txt) | [0](txt/de.txt) | [218,680](four-letter/de.txt) | [csv](csv/de.csv) · [txt](txt/de.txt) |
-| `.ai` | [0](txt/ai.txt) | [1](txt/ai.txt) | [23,341](txt/ai.txt) | [400,410](four-letter/ai.txt) | [csv](csv/ai.csv) · [txt](txt/ai.txt) |
-| `.io` | [0](txt/io.txt) | [35](txt/io.txt) | [21,139](txt/io.txt) | [392,501](four-letter/io.txt) | [csv](csv/io.csv) · [txt](txt/io.txt) |
-| `.dev` | [25](txt/dev.txt) | [679](txt/dev.txt) | [34,289](txt/dev.txt) | [409,084](four-letter/dev.txt) | [csv](csv/dev.csv) · [txt](txt/dev.txt) |
-| `.app` | [2](txt/app.txt) | [359](txt/app.txt) | [20,494](txt/app.txt) | [399,013](four-letter/app.txt) | [csv](csv/app.csv) · [txt](txt/app.txt) |
-| `.tools` | [11](txt/tools.txt) | [909](txt/tools.txt) | [24,919](txt/tools.txt) | [453,583](four-letter/tools.txt) | [csv](csv/tools.csv) · [txt](txt/tools.txt) |
-| `.co` | [0](txt/co.txt) | [47](txt/co.txt) | [23,067](txt/co.txt) | [411,537](four-letter/co.txt) | [csv](csv/co.csv) · [txt](txt/co.txt) |
-| `.org` | [0](txt/org.txt) | [78](txt/org.txt) | [2,658](txt/org.txt) | [254,009](four-letter/org.txt) | [csv](csv/org.csv) · [txt](txt/org.txt) |
-| `.xyz` | [9](txt/xyz.txt) | [577](txt/xyz.txt) | [12,359](txt/xyz.txt) | [57,560](four-letter/xyz.txt) | [csv](csv/xyz.csv) · [txt](txt/xyz.txt) |
-| `.so` | [0](txt/so.txt) | [0](txt/so.txt) | [45,132](txt/so.txt) | [453,582](four-letter/so.txt) | [csv](csv/so.csv) · [txt](txt/so.txt) |
-| `.to` | [0](txt/to.txt) | [0](txt/to.txt) | [33,490](txt/to.txt) | [448,190](four-letter/to.txt) | [csv](csv/to.csv) · [txt](txt/to.txt) |
-| `.cc` | [0](txt/cc.txt) | [16](txt/cc.txt) | [413](txt/cc.txt) | [349,804](four-letter/cc.txt) | [csv](csv/cc.csv) · [txt](txt/cc.txt) |
-| `.tv` | [2](txt/tv.txt) | [184](txt/tv.txt) | [1,673](txt/tv.txt) | [438,475](four-letter/tv.txt) | [csv](csv/tv.csv) · [txt](txt/tv.txt) |
-| `.fm` | [0](txt/fm.txt) | [1,067](txt/fm.txt) | [33,579](txt/fm.txt) | [454,294](four-letter/fm.txt) | [csv](csv/fm.csv) · [txt](txt/fm.txt) |
-| `.is` | [0](txt/is.txt) | [62](txt/is.txt) | [1,853](txt/is.txt) | [450,329](four-letter/is.txt) | [csv](csv/is.csv) · [txt](txt/is.txt) |
-| `.ly` | [0](txt/ly.txt) | [0](txt/ly.txt) | [0](txt/ly.txt) | [452,962](four-letter/ly.txt) | [csv](csv/ly.csv) · [txt](txt/ly.txt) |
-| `.run` | [0](txt/run.txt) | [688](txt/run.txt) | [25,314](txt/run.txt) | [450,825](four-letter/run.txt) | [csv](csv/run.csv) · [txt](txt/run.txt) |
-| `.inc` | [8](txt/inc.txt) | [1,146](txt/inc.txt) | [33,453](txt/inc.txt) | [456,188](four-letter/inc.txt) | [csv](csv/inc.csv) · [txt](txt/inc.txt) |
-| **all** | 57 | 5,861 | 341,692 | 7,197,181 | [csv](csv/all.csv) |
+| `.com` | [0](txt/com.txt) | [0](txt/com.txt) | [0](txt/com.txt) | [1,326](four-letter/com.txt) | [csv](csv/com.csv) · [txt](txt/com.txt) |
+| `.net` | [0](txt/net.txt) | [13](txt/net.txt) | [4,513](txt/net.txt) | [244,863](four-letter/net.txt) | [csv](csv/net.csv) · [txt](txt/net.txt) |
+| `.de` | [0](txt/de.txt) | [0](txt/de.txt) | [0](txt/de.txt) | [218,672](four-letter/de.txt) | [csv](csv/de.csv) · [txt](txt/de.txt) |
+| `.ai` | [0](txt/ai.txt) | [1](txt/ai.txt) | [23,337](txt/ai.txt) | [400,382](four-letter/ai.txt) | [csv](csv/ai.csv) · [txt](txt/ai.txt) |
+| `.io` | [0](txt/io.txt) | [35](txt/io.txt) | [21,116](txt/io.txt) | [392,491](four-letter/io.txt) | [csv](csv/io.csv) · [txt](txt/io.txt) |
+| `.dev` | [25](txt/dev.txt) | [678](txt/dev.txt) | [34,279](txt/dev.txt) | [409,042](four-letter/dev.txt) | [csv](csv/dev.csv) · [txt](txt/dev.txt) |
+| `.app` | [2](txt/app.txt) | [360](txt/app.txt) | [20,488](txt/app.txt) | [398,962](four-letter/app.txt) | [csv](csv/app.csv) · [txt](txt/app.txt) |
+| `.tools` | [11](txt/tools.txt) | [909](txt/tools.txt) | [27,559](txt/tools.txt) | [453,580](four-letter/tools.txt) | [csv](csv/tools.csv) · [txt](txt/tools.txt) |
+| `.co` | [0](txt/co.txt) | [47](txt/co.txt) | [23,072](txt/co.txt) | [411,531](four-letter/co.txt) | [csv](csv/co.csv) · [txt](txt/co.txt) |
+| `.org` | [0](txt/org.txt) | [78](txt/org.txt) | [2,867](txt/org.txt) | [254,089](four-letter/org.txt) | [csv](csv/org.csv) · [txt](txt/org.txt) |
+| `.xyz` | [9](txt/xyz.txt) | [577](txt/xyz.txt) | [12,332](txt/xyz.txt) | [57,388](four-letter/xyz.txt) | [csv](csv/xyz.csv) · [txt](txt/xyz.txt) |
+| `.so` | [0](txt/so.txt) | [0](txt/so.txt) | [45,132](txt/so.txt) | [453,585](four-letter/so.txt) | [csv](csv/so.csv) · [txt](txt/so.txt) |
+| `.to` | [0](txt/to.txt) | [0](txt/to.txt) | [33,495](txt/to.txt) | [448,187](four-letter/to.txt) | [csv](csv/to.csv) · [txt](txt/to.txt) |
+| `.cc` | [0](txt/cc.txt) | [16](txt/cc.txt) | [408](txt/cc.txt) | [349,672](four-letter/cc.txt) | [csv](csv/cc.csv) · [txt](txt/cc.txt) |
+| `.tv` | [2](txt/tv.txt) | [272](txt/tv.txt) | [1,773](txt/tv.txt) | [438,471](four-letter/tv.txt) | [csv](csv/tv.csv) · [txt](txt/tv.txt) |
+| `.fm` | [0](txt/fm.txt) | [1,067](txt/fm.txt) | [37,173](txt/fm.txt) | [454,292](four-letter/fm.txt) | [csv](csv/fm.csv) · [txt](txt/fm.txt) |
+| `.is` | [0](txt/is.txt) | [62](txt/is.txt) | [2,050](txt/is.txt) | [450,327](four-letter/is.txt) | [csv](csv/is.csv) · [txt](txt/is.txt) |
+| `.ly` | [0](txt/ly.txt) | [0](txt/ly.txt) | [0](txt/ly.txt) | [452,961](four-letter/ly.txt) | [csv](csv/ly.csv) · [txt](txt/ly.txt) |
+| `.run` | [0](txt/run.txt) | [686](txt/run.txt) | [27,999](txt/run.txt) | [450,819](four-letter/run.txt) | [csv](csv/run.csv) · [txt](txt/run.txt) |
+| `.inc` | [8](txt/inc.txt) | [1,146](txt/inc.txt) | [37,044](txt/inc.txt) | [456,188](four-letter/inc.txt) | [csv](csv/inc.csv) · [txt](txt/inc.txt) |
+| **all** | 57 | 5,947 | 354,637 | 7,196,828 | [csv](csv/all.csv) |
 
 ¹ a–z only, not in the zone (DNS check, not RDAP-verified). Full 4 character lists with digits and hyphens: [shortfree data release](https://github.com/maximilianfeix/shortfree/releases/tag/data).
 
@@ -46,7 +46,7 @@ Coverage is not complete for `.ai` partial, `.io` partial, `.org` partial, `.run
 
 Names the registry reported as registered or dropping that it now reports as not registered.
 
-`mq.ai` · `0ta.io` · `12h.ai` · `1hi.ai` · `2kk.ai` · `2vv.co` · `36d.ai` · `3bx.ai` · `56n.co` · `753.ai` · `7pm.ai` · `9ft.io` · `a-o.co` · `a-w.co` · `a-y.co` · `b-f.co` · `bdu.ai` · `be8.ai` · `be8.io` · `c-t.cc` · `c-u.co` · `c-v.co` · `caq.ai` · `cbz.ai` · `cgg.ai` · `dp3.ai` · `e65.co` · `emz.ai` · `et1.co` · `f-o.co`
+`003.to` · `005.to` · `022.to` · `028.to` · `078.to` · `353.to` · `667.so` · `8j.app` · `9an.ai` · `a3z.io` · `c6x.co` · `cla.to` · `emt.to` · `ip1.co` · `kcj.io` · `l-8.co` · `llb.io` · `lzj.io` · `mtj.io` · `rsa.so` · `sa6.co` · `sp4.io` · `t-1.ai` · `t92.co` · `ums.ai` · `wxk.ai` · `yph.io` · `yvw.io` · `yxw.io` · `yyd.ai`
 
 ## Files
 

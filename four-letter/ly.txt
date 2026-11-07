@@ -37553,7 +37553,6 @@ celh.ly
 celi.ly
 celj.ly
 celk.ly
-cell.ly
 celm.ly
 celn.ly
 celo.ly
@@ -39647,6 +39646,7 @@ chos.ly
 chot.ly
 chou.ly
 chov.ly
+chow.ly
 chox.ly
 choy.ly
 choz.ly
@@ -48389,10 +48389,8 @@ cuqw.ly
 cuqx.ly
 cuqy.ly
 cuqz.ly
-curb.ly
 curc.ly
 curd.ly
-cure.ly
 curf.ly
 curg.ly
 curh.ly
@@ -403609,6 +403607,7 @@ xevk.ly
 xevl.ly
 xevm.ly
 xevn.ly
+xevo.ly
 xevp.ly
 xevq.ly
 xevr.ly

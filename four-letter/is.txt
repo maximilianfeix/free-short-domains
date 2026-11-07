@@ -165094,7 +165094,6 @@ jool.is
 joom.is
 joop.is
 jooq.is
-joor.is
 joos.is
 joot.is
 joou.is
@@ -399636,7 +399635,6 @@ xcrq.is
 xcrr.is
 xcrs.is
 xcrt.is
-xcru.is
 xcrv.is
 xcrw.is
 xcrx.is
