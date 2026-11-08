@@ -178744,7 +178744,6 @@ keyo.inc
 keyp.inc
 keyq.inc
 keyr.inc
-keys.inc
 keyt.inc
 keyu.inc
 keyv.inc
@@ -299210,6 +299209,7 @@ rbmc.inc
 rbmd.inc
 rbme.inc
 rbmf.inc
+rbmg.inc
 rbmh.inc
 rbmi.inc
 rbmj.inc

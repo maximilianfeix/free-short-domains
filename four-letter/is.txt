@@ -52029,6 +52029,7 @@ darq.is
 darr.is
 dars.is
 daru.is
+darv.is
 darw.is
 darx.is
 dary.is
@@ -58083,7 +58084,6 @@ djuv.is
 djuw.is
 djux.is
 djuy.is
-djuz.is
 djva.is
 djvb.is
 djvc.is
@@ -61250,6 +61250,7 @@ dooc.is
 dooe.is
 doof.is
 doog.is
+dooh.is
 dooi.is
 dooj.is
 dook.is
@@ -175530,6 +175531,7 @@ keeh.is
 keei.is
 keej.is
 keek.is
+keel.is
 keem.is
 keeo.is
 keeq.is

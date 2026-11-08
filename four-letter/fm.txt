@@ -180618,6 +180618,7 @@ kivq.fm
 kivr.fm
 kivs.fm
 kivt.fm
+kivu.fm
 kivv.fm
 kivw.fm
 kivx.fm
@@ -297027,7 +297028,6 @@ raaw.fm
 raax.fm
 raay.fm
 raaz.fm
-raba.fm
 rabb.fm
 rabc.fm
 rabd.fm
@@ -306824,7 +306824,6 @@ rork.fm
 rorl.fm
 rorm.fm
 rorn.fm
-roro.fm
 rorp.fm
 rorq.fm
 rorr.fm
