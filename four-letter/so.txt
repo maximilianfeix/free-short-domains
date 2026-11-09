@@ -82043,7 +82043,6 @@ espn.so
 espo.so
 espp.so
 espq.so
-espr.so
 esps.so
 espt.so
 espu.so
@@ -319435,6 +319434,7 @@ simj.so
 simk.so
 siml.so
 simm.so
+simp.so
 simq.so
 simr.so
 simt.so
@@ -320655,6 +320655,7 @@ skhz.so
 skia.so
 skib.so
 skic.so
+skid.so
 skie.so
 skif.so
 skig.so
@@ -323466,7 +323467,6 @@ soow.so
 soox.so
 sooy.so
 sooz.so
-sopa.so
 sopb.so
 sopc.so
 sopd.so
@@ -323599,11 +323599,9 @@ soug.so
 souh.so
 soui.so
 souj.so
-souk.so
 soum.so
 soun.so
 souo.so
-soup.so
 sour.so
 sout.so
 souu.so
