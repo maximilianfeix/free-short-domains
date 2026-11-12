@@ -10521,7 +10521,6 @@ apro.fm
 aprp.fm
 aprq.fm
 aprr.fm
-aprs.fm
 aprt.fm
 apru.fm
 aprv.fm
@@ -129390,7 +129389,6 @@ hkrn.fm
 hkro.fm
 hkrp.fm
 hkrq.fm
-hkrr.fm
 hkrs.fm
 hkrt.fm
 hkru.fm
