@@ -18670,7 +18670,6 @@ bclp.is
 bclq.is
 bclr.is
 bcls.is
-bclt.is
 bclu.is
 bclv.is
 bclw.is
@@ -24783,6 +24782,7 @@ blsg.is
 blsh.is
 blsi.is
 blsj.is
+blsk.is
 blsl.is
 blsm.is
 blsn.is
@@ -28401,6 +28401,7 @@ brep.is
 breq.is
 brer.is
 bres.is
+bret.is
 breu.is
 brey.is
 brez.is
@@ -140168,7 +140169,6 @@ idei.is
 idej.is
 idek.is
 idel.is
-idem.is
 idep.is
 ideq.is
 ides.is
@@ -145813,7 +145813,6 @@ ilpo.is
 ilpp.is
 ilpq.is
 ilpr.is
-ilps.is
 ilpt.is
 ilpu.is
 ilpv.is
@@ -146935,7 +146934,6 @@ inio.is
 inip.is
 iniq.is
 inir.is
-inis.is
 iniu.is
 iniv.is
 iniw.is
@@ -147255,6 +147253,7 @@ invk.is
 invl.is
 invm.is
 invn.is
+invo.is
 invp.is
 invq.is
 invr.is
@@ -148507,7 +148506,6 @@ ipsk.is
 ipsl.is
 ipsm.is
 ipsn.is
-ipso.is
 ipsp.is
 ipsq.is
 ipsr.is
@@ -380666,7 +380664,6 @@ walg.is
 walh.is
 wali.is
 walj.is
-wall.is
 walm.is
 waln.is
 walo.is
