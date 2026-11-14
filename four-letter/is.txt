@@ -45921,7 +45921,6 @@ croh.is
 croi.is
 croj.is
 crok.is
-crol.is
 crom.is
 croo.is
 crop.is
@@ -287969,7 +287968,6 @@ qrbz.is
 qrca.is
 qrcb.is
 qrcc.is
-qrcd.is
 qrce.is
 qrcf.is
 qrcg.is
