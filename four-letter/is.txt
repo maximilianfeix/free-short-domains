@@ -64903,6 +64903,7 @@ duah.is
 duai.is
 duaj.is
 duak.is
+dual.is
 duam.is
 duan.is
 duao.is
@@ -175448,7 +175449,6 @@ kebk.is
 kebl.is
 kebm.is
 kebn.is
-kebo.is
 kebp.is
 kebq.is
 kebr.is
@@ -294293,6 +294293,7 @@ rani.is
 ranj.is
 ranl.is
 ranm.is
+rann.is
 rano.is
 ranp.is
 ranq.is
@@ -297105,6 +297106,7 @@ reul.is
 reum.is
 reun.is
 reuo.is
+reup.is
 reuq.is
 reur.is
 reus.is
@@ -429066,6 +429068,7 @@ yula.is
 yulb.is
 yulc.is
 yuld.is
+yule.is
 yulf.is
 yulg.is
 yulh.is
