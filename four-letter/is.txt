@@ -70606,7 +70606,6 @@ ecoh.is
 ecoj.is
 ecok.is
 ecol.is
-ecom.is
 ecoo.is
 ecop.is
 ecoq.is
@@ -70736,6 +70735,7 @@ ectk.is
 ectl.is
 ectm.is
 ectn.is
+ecto.is
 ectp.is
 ectq.is
 ectr.is
@@ -75768,6 +75768,7 @@ ekhk.is
 ekhl.is
 ekhm.is
 ekhn.is
+ekho.is
 ekhp.is
 ekhq.is
 ekhr.is
@@ -193151,6 +193152,7 @@ letn.is
 leto.is
 letp.is
 letq.is
+letr.is
 letu.is
 letv.is
 letw.is
@@ -199666,7 +199668,6 @@ looi.is
 looj.is
 lool.is
 looo.is
-loop.is
 looq.is
 loor.is
 loos.is
@@ -203631,6 +203632,7 @@ lumw.is
 lumx.is
 lumy.is
 lumz.is
+luna.is
 lunb.is
 lunc.is
 lunf.is
@@ -320838,7 +320840,6 @@ sorn.is
 soro.is
 sorq.is
 sorr.is
-sors.is
 soru.is
 sorv.is
 sorw.is
@@ -325759,7 +325760,6 @@ swfp.is
 swfq.is
 swfr.is
 swfs.is
-swft.is
 swfu.is
 swfv.is
 swfw.is

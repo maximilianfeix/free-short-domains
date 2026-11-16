@@ -325628,6 +325628,7 @@ soqw.inc
 soqx.inc
 soqy.inc
 soqz.inc
+sora.inc
 sorb.inc
 sorc.inc
 sord.inc
