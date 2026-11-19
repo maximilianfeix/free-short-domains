@@ -11739,6 +11739,7 @@ armu.fm
 armv.fm
 armw.fm
 armx.fm
+army.fm
 armz.fm
 arna.fm
 arnb.fm
@@ -12352,7 +12353,6 @@ asku.fm
 askv.fm
 askw.fm
 askx.fm
-asky.fm
 askz.fm
 asla.fm
 aslb.fm
@@ -376713,6 +376713,7 @@ voso.fm
 vosp.fm
 vosq.fm
 vosr.fm
+voss.fm
 vost.fm
 vosu.fm
 vosv.fm

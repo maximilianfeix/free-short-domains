@@ -8680,7 +8680,6 @@ ange.is
 angf.is
 angg.is
 angh.is
-angi.is
 angj.is
 angk.is
 angl.is
@@ -121538,7 +121537,6 @@ hbep.is
 hbeq.is
 hber.is
 hbes.is
-hbet.is
 hbeu.is
 hbev.is
 hbew.is
@@ -368381,7 +368379,6 @@ vicd.is
 vicf.is
 vicg.is
 vich.is
-vici.is
 vicj.is
 vick.is
 vicl.is
