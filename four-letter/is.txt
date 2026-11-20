@@ -17537,6 +17537,7 @@ bato.is
 batp.is
 batq.is
 batr.is
+bats.is
 batu.is
 batv.is
 batw.is
@@ -26750,6 +26751,7 @@ bosc.is
 bosd.is
 bosf.is
 bosg.is
+bosi.is
 bosj.is
 bosk.is
 bosl.is
@@ -28400,7 +28402,6 @@ brep.is
 breq.is
 brer.is
 bres.is
-bret.is
 breu.is
 brey.is
 brez.is
@@ -146818,7 +146819,6 @@ indu.is
 indv.is
 indw.is
 indx.is
-indy.is
 indz.is
 ineb.is
 inec.is
@@ -259180,6 +259180,7 @@ pacp.is
 pacq.is
 pacr.is
 pacs.is
+pact.is
 pacu.is
 pacv.is
 pacw.is
