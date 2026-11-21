@@ -40281,6 +40281,7 @@ cino.ly
 cinp.ly
 cinq.ly
 cinr.ly
+cins.ly
 cint.ly
 cinu.ly
 cinv.ly
@@ -160668,6 +160669,7 @@ jgee.ly
 jgef.ly
 jgeg.ly
 jgeh.ly
+jgei.ly
 jgej.ly
 jgek.ly
 jgel.ly
@@ -288146,7 +288148,6 @@ qona.ly
 qonb.ly
 qonc.ly
 qond.ly
-qone.ly
 qonf.ly
 qong.ly
 qonh.ly
@@ -406126,6 +406127,7 @@ xipl.ly
 xipm.ly
 xipn.ly
 xipo.ly
+xipp.ly
 xipq.ly
 xipr.ly
 xips.ly

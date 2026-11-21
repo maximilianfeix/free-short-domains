@@ -34882,6 +34882,7 @@ caza.is
 cazb.is
 cazc.is
 cazd.is
+caze.is
 cazf.is
 cazg.is
 cazh.is
@@ -286583,6 +286584,7 @@ qpau.is
 qpav.is
 qpaw.is
 qpax.is
+qpay.is
 qpaz.is
 qpba.is
 qpbb.is

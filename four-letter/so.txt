@@ -39850,6 +39850,7 @@ chre.so
 chrf.so
 chrg.so
 chrh.so
+chri.so
 chrj.so
 chrk.so
 chrl.so

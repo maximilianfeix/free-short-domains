@@ -39413,6 +39413,7 @@ cidn.to
 cido.to
 cidp.to
 cidq.to
+cidr.to
 cids.to
 cidt.to
 cidu.to
@@ -43752,6 +43753,7 @@ couz.to
 covb.to
 covc.to
 covd.to
+cove.to
 covf.to
 covg.to
 covh.to
@@ -47222,7 +47224,6 @@ cubt.to
 cubu.to
 cubv.to
 cubw.to
-cubx.to
 cuby.to
 cubz.to
 cuca.to
@@ -50188,7 +50189,6 @@ cynk.to
 cynl.to
 cynm.to
 cynn.to
-cyno.to
 cynp.to
 cynq.to
 cynr.to
@@ -280980,6 +280980,7 @@ qinc.to
 qind.to
 qine.to
 qinf.to
+qing.to
 qinh.to
 qinj.to
 qink.to
