@@ -77781,7 +77781,6 @@ enke.is
 enkf.is
 enkg.is
 enkh.is
-enki.is
 enkj.is
 enkk.is
 enkl.is
@@ -190167,7 +190166,6 @@ lafe.is
 laff.is
 lafg.is
 lafh.is
-lafi.is
 lafj.is
 lafk.is
 lafl.is
@@ -190476,7 +190474,6 @@ lasd.is
 lase.is
 lasf.is
 lasg.is
-lasi.is
 lasj.is
 lask.is
 lasl.is
@@ -205617,6 +205614,7 @@ lxlu.is
 lxlv.is
 lxlw.is
 lxlx.is
+lxly.is
 lxlz.is
 lxma.is
 lxmb.is
@@ -325169,6 +325167,7 @@ svij.is
 svil.is
 svim.is
 svio.is
+svip.is
 sviq.is
 svir.is
 svis.is
@@ -433085,6 +433084,7 @@ zake.is
 zakf.is
 zakg.is
 zakh.is
+zaki.is
 zakj.is
 zakk.is
 zakl.is

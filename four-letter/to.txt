@@ -192437,7 +192437,6 @@ levm.to
 levn.to
 levp.to
 levq.to
-levr.to
 levs.to
 levt.to
 levv.to
@@ -311881,7 +311880,6 @@ sdcn.to
 sdco.to
 sdcp.to
 sdcq.to
-sdcr.to
 sdcs.to
 sdct.to
 sdcu.to
@@ -323092,7 +323090,6 @@ sule.to
 sulf.to
 sulg.to
 sulh.to
-suli.to
 sulj.to
 sulk.to
 sull.to
@@ -432737,7 +432734,6 @@ zdau.to
 zdav.to
 zdaw.to
 zdax.to
-zday.to
 zdaz.to
 zdba.to
 zdbb.to
