@@ -114252,6 +114252,7 @@ gooi.so
 gooj.so
 gook.so
 gool.so
+goon.so
 gooq.so
 goor.so
 goos.so
@@ -226689,7 +226690,6 @@ nafw.so
 nafx.so
 nafy.so
 nafz.so
-naga.so
 nagb.so
 nagc.so
 nagd.so
@@ -229255,7 +229255,6 @@ nebq.so
 nebr.so
 nebs.so
 nebt.so
-nebu.so
 nebv.so
 nebw.so
 nebx.so

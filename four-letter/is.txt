@@ -103864,7 +103864,6 @@ gapl.is
 gapm.is
 gapn.is
 gapo.is
-gapp.is
 gapq.is
 gapr.is
 gaps.is
@@ -229831,6 +229830,7 @@ nidk.is
 nidl.is
 nidm.is
 nidn.is
+nido.is
 nidp.is
 nidq.is
 nidr.is
@@ -237774,7 +237774,6 @@ nuba.is
 nubb.is
 nubc.is
 nubd.is
-nube.is
 nubf.is
 nubg.is
 nubh.is
