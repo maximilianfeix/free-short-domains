@@ -14464,6 +14464,7 @@ avtk.so
 avtl.so
 avtm.so
 avtn.so
+avto.so
 avtp.so
 avtq.so
 avtr.so
@@ -124684,7 +124685,6 @@ hecy.so
 hecz.so
 heda.so
 hedb.so
-hedc.so
 hedd.so
 hede.so
 hedf.so
