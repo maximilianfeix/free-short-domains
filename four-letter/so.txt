@@ -262035,7 +262035,6 @@ paxw.so
 paxx.so
 paxy.so
 paxz.so
-paya.so
 payb.so
 payc.so
 payd.so
@@ -389317,7 +389316,6 @@ wisy.so
 wisz.so
 wita.so
 witb.so
-witc.so
 witd.so
 wite.so
 witf.so

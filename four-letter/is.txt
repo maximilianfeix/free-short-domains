@@ -147704,6 +147704,7 @@ iomw.is
 iomx.is
 iomy.is
 iomz.is
+iona.is
 ionb.is
 ionc.is
 iond.is
@@ -150124,6 +150125,7 @@ iseb.is
 isec.is
 ised.is
 isee.is
+isef.is
 iseg.is
 iseh.is
 isei.is
@@ -268684,7 +268686,6 @@ pokd.is
 pokf.is
 pokg.is
 pokh.is
-poki.is
 pokj.is
 pokk.is
 pokl.is
@@ -268870,6 +268871,7 @@ posd.is
 posf.is
 posg.is
 posh.is
+posi.is
 posj.is
 posk.is
 posl.is
@@ -385169,6 +385171,7 @@ whem.is
 wheo.is
 whep.is
 wheq.is
+wher.is
 whes.is
 whet.is
 wheu.is
@@ -389772,7 +389775,6 @@ wobk.is
 wobl.is
 wobm.is
 wobn.is
-wobo.is
 wobp.is
 wobq.is
 wobr.is
