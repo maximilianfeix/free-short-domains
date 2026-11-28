@@ -1,2 +1,6 @@
 domain,tld,length,kind,status,first_seen,checked_at,verification,evidence_age_days
-i9v.com,com,3,mixed,dropping,2026-11-26,2026-11-26T03:23:01Z,rdap_verified,0
+02b.com,com,3,mixed,dropping,2026-10-27,2026-11-27T03:23:27Z,rdap_verified,0
+12h.com,com,3,mixed,dropping,2026-10-27,2026-11-27T03:23:27Z,rdap_verified,0
+48h.com,com,3,mixed,dropping,2026-10-27,2026-11-27T03:23:27Z,rdap_verified,0
+72h.com,com,3,mixed,dropping,2026-10-27,2026-11-27T03:23:27Z,rdap_verified,0
+i9v.com,com,3,mixed,dropping,2026-11-26,2026-11-27T03:23:27Z,rdap_verified,0

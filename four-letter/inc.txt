@@ -51668,6 +51668,7 @@ cyrq.inc
 cyrr.inc
 cyrs.inc
 cyrt.inc
+cyru.inc
 cyrv.inc
 cyrw.inc
 cyrx.inc

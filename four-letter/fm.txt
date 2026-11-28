@@ -44541,7 +44541,6 @@ cokw.fm
 cokx.fm
 coky.fm
 cokz.fm
-cola.fm
 colb.fm
 colc.fm
 cold.fm
@@ -409765,7 +409764,6 @@ xmao.fm
 xmap.fm
 xmaq.fm
 xmar.fm
-xmas.fm
 xmat.fm
 xmau.fm
 xmav.fm

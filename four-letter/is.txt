@@ -39119,6 +39119,7 @@ chhw.is
 chhx.is
 chhy.is
 chhz.is
+chic.is
 chid.is
 chie.is
 chif.is
@@ -158530,7 +158531,6 @@ jett.is
 jetu.is
 jetv.is
 jetw.is
-jetx.is
 jety.is
 jetz.is
 jeua.is
@@ -412961,6 +412961,7 @@ xwml.is
 xwmm.is
 xwmn.is
 xwmo.is
+xwmp.is
 xwmq.is
 xwmr.is
 xwms.is
